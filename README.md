@@ -1,2 +1,2 @@
 # alura-typer
-Desenvolvedor JavaScript
+Curso para formação de Desenvolvedor JavaScript
